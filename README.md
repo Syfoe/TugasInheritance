@@ -1,6 +1,6 @@
 # TugasInheritance
 Tugas Inheritance Week 4 OOP
-Yosef Rafael Joshua / 13522133
+Yosef Rafael Joshua / 13522133 
 
 
 # Compile
