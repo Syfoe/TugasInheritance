@@ -1,5 +1,5 @@
 # TugasInheritance
-Tugas Inheritance Week 4 OOP
+Tugas Inheritance Week 4 OOP /n
 Yosef Rafael Joshua / 13522133
 
 
